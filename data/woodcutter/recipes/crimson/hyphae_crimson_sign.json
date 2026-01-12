@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:crimson_hyphae"
-    },
-    "result": "minecraft:crimson_sign",
-    "count": 2
-}

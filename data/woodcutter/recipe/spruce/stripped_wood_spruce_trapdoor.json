@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient":
+         "minecraft:stripped_spruce_wood"
+    ,
+    "result": { "id":  "minecraft:spruce_trapdoor",
+    "count": 2}
+}

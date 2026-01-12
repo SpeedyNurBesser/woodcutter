@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 13,
-    "description": "§aVersion: §b1.20 Snapshots\n§6by SpeedyNurBesser"
+    "min_format": 88,
+    "max_format": 96.0,
+    "description": "§aVersion: §b1.21.9 - 1.21.11\n§6by SpeedyNurBesser"
   }
 }

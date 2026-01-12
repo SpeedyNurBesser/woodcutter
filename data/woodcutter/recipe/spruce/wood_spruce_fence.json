@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient":
+         "minecraft:spruce_wood"
+    ,
+    "result": { "id":  "minecraft:spruce_fence",
+    "count": 3}
+}

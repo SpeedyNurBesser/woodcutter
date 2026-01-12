@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient":
+         "minecraft:stripped_dark_oak_log"
+    ,
+    "result": { "id":  "minecraft:dark_oak_trapdoor",
+    "count": 2}
+}
